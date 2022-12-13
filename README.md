@@ -1,5 +1,5 @@
 
-# h1 Boris's GitHub Profile
+# Boris's GitHub Profile
 
 * 👋 Hi, I'm @borismwanga! I'm a web development enthusiast and recent bootcamp grad from Belgium, and I'm passionate about building beautiful, functional websites and web applications. In my free time, I enjoy playing football, watching movies, and exploring new technologies.
 
