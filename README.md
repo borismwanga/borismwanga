@@ -1,24 +1,41 @@
-
 # Boris's GitHub Profile
 
-🐛 I'm @borismwanga, a web development enthusiast and recent bootcamp grad from Belgium. I'm passionate about building beautiful, functional websites and web applications, and I'm always looking to improve my skills and explore new technologies.
+🐛 I'm @borismwanga, a web development enthusiast from Belgium. I'm passionate about building beautiful, functional websites and web applications. I'm always on the hunt for new challenges and looking to delve deeper into the world of technology.
 
-💻 I'm proficient in a variety of programming languages and frameworks, including:
+## Skills
 
-* 💎 Ruby and Ruby on Rails
-* 🎨 HTML, CSS, and Bootstrap
-* 🔥 JavaScript and jQuery
+💻 I'm skilled in a myriad of programming languages and frameworks, including:
 
+- 💎 **Ruby and Ruby on Rails**
+- 🎨 **HTML, CSS, and Bootstrap**
+- 🔥 **JavaScript, jQuery, TypeScript, Node.js**
+- ⚛️ **React.js**
+- 🖖 **Vue.js**
+- 📄 **YAML**
+- ...
 
-🌱 I'm currently learning more about modern web development practices, including responsive design, progressive web apps, and serverless architecture. I'm also working on improving my skills with popular frameworks like React and Vue.js, and I'm eager to learn more about emerging technologies like artificial intelligence and machine learning.
+## Current Focus
 
-💬 I'm a native French speaker, and I'm also proficient in English and Dutch (B1 level). I'm excited to collaborate with people from a variety of backgrounds and language skills, and I'm always looking to improve my language abilities.
+🌱 My focus is on modern web development practices, including responsive design, progressive web apps, and serverless architecture. I'm deepening my knowledge in popular frameworks like React and Vue.js, and I'm keen to further explore areas like artificial intelligence and machine learning.
 
-💞️ I'm looking to collaborate on projects that are interesting, challenging, and fun. I'm open to working on a wide range of projects, from small, experimental ideas to larger, more complex projects. I'm excited to learn from others and contribute my skills and experience to the development community.
+## Languages
 
-🎮 In my free time, I enjoy playing football, watching movies and TV shows, and staying up-to-date with the latest technologies. I'm also an avid gamer, and I love exploring new games and genres.
+💬 As a multilingual individual, I speak French natively and am proficient in English and Dutch (B1 level). Collaborating with diverse teams and enhancing my language proficiency is something I earnestly look forward to.
 
-📫 You can reach me on GitHub, or by email at borismwanga@gmail.com. I'm always happy to connect and chat about projects, ideas, or anything else that might be on your mind. Thanks for visiting my profile, and I hope to hear from you soon!
+## Collaboration
+
+💞️ I'm all in for collaborations that bring intrigue, complexity, and fun. From budding ideas to large-scale endeavors, I'm eager to share my expertise and learn in the process.
+
+## Hobbies
+
+🎮 Off the screen, football beckons me, movies and TV series pique my interest, and tech news keeps me in the loop. Gaming is a passion, and there's always a new virtual world waiting to be explored.
+
+## Contact
+
+📫 To connect, find me on GitHub or drop a mail at borismwanga@gmail.com. Let's brainstorm, discuss, or simply chat. Thanks for dropping by!
+
+> “Code is like humor. When you have to explain it, it’s bad.” - Cory House
+
 <!---
 borismwanga/borismwanga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
