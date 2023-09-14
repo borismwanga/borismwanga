@@ -16,7 +16,7 @@ I'm @borismwanga, a web development enthusiast from Belgium. Passionate about bu
 
 ## Languages
 
-💬 As a multilingual individual, I speak French natively and am proficient in English and Dutch (B1 level). Collaborating with diverse teams and enhancing my language proficiency is something I earnestly look forward to.
+💬 As a multilingual individual, I speak French natively and am proficient in English and Dutch. Collaborating with diverse teams and enhancing my language proficiency is something I earnestly look forward to.
 
 ## Collaboration
 
@@ -30,8 +30,9 @@ I'm @borismwanga, a web development enthusiast from Belgium. Passionate about bu
 
 📫 To connect, find me on GitHub or drop a mail at borismwanga@gmail.com. Let's brainstorm, discuss, or simply chat. Thanks for dropping by!
 
-[![Boris Mwanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=borismwanga)](https://github.com/borismwanga/github-readme-stats)
+[![Boris Mwanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=borismwanga&show_icons=true&theme=radical)](https://github.com/borismwanga/github-readme-stats)
 ![Boris Mwanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=borismwanga&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borismwanga&show_icons=true&theme=radical)](https://github.com/borismwanga/github-readme-stats)
 > “Code is like humor. When you have to explain it, it’s bad.” - Cory House
 
 <!---
