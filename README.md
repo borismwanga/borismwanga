@@ -1,8 +1,8 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=borismwanga.borismwanga)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there+%F0%9F%91%8B+It's+Boris)](https://git.io/typing-svg)
-```
-🐛 I'm @borismwanga, a web development enthusiast from Belgium. Passionate about building beautiful, functional websites and web applications. I'm always on the hunt for new challenges and looking to delve deeper into the world of technology.
+
+I'm @borismwanga, a web development enthusiast from Belgium. Passionate about building beautiful, functional websites and web applications. I'm always on the hunt for new challenges and looking to delve deeper into the world of technology.
 
 ## Skills
 
@@ -30,8 +30,8 @@
 
 📫 To connect, find me on GitHub or drop a mail at borismwanga@gmail.com. Let's brainstorm, discuss, or simply chat. Thanks for dropping by!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borismwanga)](https://github.com/borismwanga/github-readme-stats)
-
+[![Boris Mwanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=borismwanga)](https://github.com/borismwanga/github-readme-stats)
+![Boris Mwanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=borismwanga&show_icons=true&theme=radical)
 > “Code is like humor. When you have to explain it, it’s bad.” - Cory House
 
 <!---
