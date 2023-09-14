@@ -12,7 +12,6 @@ I'm @borismwanga, a web development enthusiast from Belgium. Passionate about bu
 
 [![Boris Mwanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=borismwanga&show_icons=true&theme=radical)](https://github.com/borismwanga/github-readme-stats)
 ![Boris Mwanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=borismwanga&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## Current Focus
 
@@ -34,8 +33,9 @@ I'm @borismwanga, a web development enthusiast from Belgium. Passionate about bu
 
 📫 To connect, find me on GitHub or drop a mail at borismwanga@gmail.com. Let's brainstorm, discuss, or simply chat. Thanks for dropping by!
 
-
-> ## “Code is like humor. When you have to explain it, it’s bad.” - Cory House
+```
+>  “Code is like humor. When you have to explain it, it’s bad.” - Cory House
+```
 
 <!---
 borismwanga/borismwanga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
