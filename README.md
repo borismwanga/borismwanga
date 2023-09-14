@@ -10,6 +10,10 @@ I'm @borismwanga, a web development enthusiast from Belgium. Passionate about bu
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,wasm,typescript,react,vue,mongodb,git,vscode,webflow,postman,py,postgres,heroku,figma,vite,vim,netlify,nodejs,bootstrap)](https://skillicons.dev)
 
+[![Boris Mwanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=borismwanga&show_icons=true&theme=radical)](https://github.com/borismwanga/github-readme-stats)
+![Boris Mwanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=borismwanga&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ## Current Focus
 
 🌱 My focus is on modern web development practices, including responsive design, progressive web apps, and serverless architecture. I'm deepening my knowledge in popular frameworks like React and Vue.js, and I'm keen to further explore areas like artificial intelligence and machine learning.
@@ -30,10 +34,8 @@ I'm @borismwanga, a web development enthusiast from Belgium. Passionate about bu
 
 📫 To connect, find me on GitHub or drop a mail at borismwanga@gmail.com. Let's brainstorm, discuss, or simply chat. Thanks for dropping by!
 
-[![Boris Mwanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=borismwanga&show_icons=true&theme=radical)](https://github.com/borismwanga/github-readme-stats)
-![Boris Mwanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=borismwanga&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borismwanga&show_icons=true&theme=radical)](https://github.com/borismwanga/github-readme-stats)
-> “Code is like humor. When you have to explain it, it’s bad.” - Cory House
+
+> ## “Code is like humor. When you have to explain it, it’s bad.” - Cory House
 
 <!---
 borismwanga/borismwanga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
