@@ -1,6 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=borismwanga.borismwanga)
+```
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there+%F0%9F%91%8B+It's+Boris)](https://git.io/typing-svg)
-
+```
 🐛 I'm @borismwanga, a web development enthusiast from Belgium. Passionate about building beautiful, functional websites and web applications. I'm always on the hunt for new challenges and looking to delve deeper into the world of technology.
 
 ## Skills
