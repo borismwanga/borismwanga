@@ -8,7 +8,7 @@ I am a web developer from Belgium named @borismwanga. Devoted to creating stunni
 
 💻 I'm skilled in a myriad of programming languages and frameworks, including:
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,wasm,jquery,typescript,react,vue,mongodb,git,github,vscode,webflow,bash,discord,postman,py,postgres,heroku,figma,vite,vim,netlify,nodejs,bootstrap,powershell,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,firebase,js,html,css,wasm,jquery,typescript,react,vue,mongodb,git,github,vscode,webflow,bash,discord,postman,py,postgres,heroku,figma,vite,vim,netlify,nodejs,bootstrap,powershell,threejs)](https://skillicons.dev)
 
 [![Boris Mwanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=borismwanga&show_icons=true&theme=radical)](https://github.com/borismwanga/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=borismwanga&theme=radical&hide_current_streak=true)](https://git.io/streak-stats)
